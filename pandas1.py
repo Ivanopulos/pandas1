@@ -132,3 +132,4 @@ def snl_session(fn="savedsession.pkl"):
         dill.dump_session(fn)
         print('session saved')
 
+seq1()
